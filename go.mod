@@ -1,4 +1,4 @@
-module github.com/hashicorp/go-changelog
+module github.com/gulducat/go-changelog
 
 go 1.24.0
 
