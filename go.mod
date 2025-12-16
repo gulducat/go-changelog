@@ -1,8 +1,6 @@
-module github.com/hashicorp/go-changelog
+module github.com/gulducat/go-changelog
 
 go 1.21
-
-toolchain go1.22.5
 
 require (
 	github.com/go-git/go-billy/v5 v5.6.1
@@ -10,7 +8,6 @@ require (
 	github.com/google/go-github v17.0.0+incompatible
 	github.com/manifoldco/promptui v0.8.0
 	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
-	golang.org/x/sync v0.10.0
 )
 
 require (
@@ -38,6 +35,7 @@ require (
 	golang.org/x/crypto v0.31.0 // indirect
 	golang.org/x/mod v0.19.0 // indirect
 	golang.org/x/net v0.33.0 // indirect
+	golang.org/x/sync v0.10.0 // indirect
 	golang.org/x/sys v0.28.0 // indirect
 	golang.org/x/tools v0.23.0 // indirect
 	google.golang.org/appengine v1.4.0 // indirect

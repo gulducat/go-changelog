@@ -10,7 +10,7 @@ import (
 	"strconv"
 
 	"github.com/google/go-github/github"
-	"github.com/hashicorp/go-changelog"
+	"github.com/gulducat/go-changelog"
 	"golang.org/x/oauth2"
 )
 

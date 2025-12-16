@@ -12,7 +12,7 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/hashicorp/go-changelog"
+	"github.com/gulducat/go-changelog"
 )
 
 func main() {

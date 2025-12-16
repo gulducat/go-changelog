@@ -8,7 +8,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/hashicorp/go-changelog"
+	"github.com/gulducat/go-changelog"
 )
 
 func main() {
